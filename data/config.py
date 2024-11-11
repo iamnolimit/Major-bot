@@ -1,7 +1,6 @@
 # api id, hash
-API_ID = 1488
-API_HASH = 'abcde1488'
-
+API_ID=23154554
+API_HASH="0203ee10042a94ff35971720f058f293"
 
 DELAYS = {
     "RELOGIN": [5, 7],  # delay after a login attempt
